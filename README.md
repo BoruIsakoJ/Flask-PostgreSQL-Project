@@ -1,9 +1,6 @@
 # Flask PostgreSQL Project
 
 1. Fork and clone the repository
-```bash
-
-```
 
 2. Navigate into the clone repository
 
